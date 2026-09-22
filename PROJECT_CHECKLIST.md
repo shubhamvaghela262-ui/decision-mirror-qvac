@@ -1,10 +1,20 @@
-# Decision Mirror submission checklist
-- [ ] npm install
-- [ ] npm run verify
-- [ ] npm start
-- [ ] Generate a real decision map
-- [ ] Capture screenshot/video
-- [ ] Make at least 3 meaningful commits
-- [ ] Push public GitHub repository
-- [ ] Post demo on X and tag @qvac
-- [ ] Submit GitHub URL + X URL
+# \# Decision Mirror Project Checklist
+
+# 
+
+# \- \[x] Decision mapping interface
+
+# \- \[x] QVAC Local AI integration
+
+# \- \[x] Local processing
+
+# \- \[x] Decision priorities
+
+# \- \[x] Trade-off analysis
+
+# \- \[x] Unknowns identification
+
+# \- \[x] GitHub repository
+
+# \- \[x] Project documentation
+
